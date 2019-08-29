@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jameszws/mkt-app/issues"
   },
-  "homepage": "https://github.com/Jameszws/mkt-app#readme"
+  "homepage": "https://github.com/Jameszws/mkt-app#readme",
+  "dependencies": {
+    "monitorjs_horse": "^1.4.6"
+  }
 }
